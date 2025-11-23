@@ -1,5 +1,7 @@
 # Universe from Black Hole: Gaia BH1 Simulator
 
+[**🔴 LIVE DEMO**](https://universe-from-black-hole-simulation.vercel.app)
+
 A real-time, cinematic 3D visualization of a **Cyclic Universe** model. This simulation demonstrates the hypothetical journey of a solar system being consumed by a stellar-mass black hole (Gaia BH1), compressed into a singularity, and subsequently triggering a new Big Bang—suggesting that our universe may be born from the collapse of a previous one.
 
 ![Simulation Preview](https://via.placeholder.com/800x450?text=Universe+from+Black+Hole+Preview)
